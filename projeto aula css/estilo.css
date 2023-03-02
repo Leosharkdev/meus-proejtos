@@ -1,0 +1,39 @@
+body{
+    background-image: url(imagem/fundo.png);
+    font: 16px Arial, Helvetica, sans-serif;
+}
+#Principal {
+   width: 900px;
+    
+}
+#Menu {
+    background: #c5c5b2;
+    padding: 18px;
+
+}
+
+#Conteudo {
+    background: #e8e8d9;
+    padding: 10px;
+}
+a {
+    color: #4b566a;
+    text-decoration: none;
+    font-weight: bold;
+    padding: 5px;
+}
+
+.centralizar {
+    text-align: center;
+}
+
+#titulo {
+    color: rgb(233, 190, 138);
+    font-size: 1.2em;
+}
+
+.bordas {
+    border-color: #c5c5b2;
+    border-width: 10px;
+    border-style: solid;
+}
